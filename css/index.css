@@ -1,0 +1,61 @@
+h1, h2, h3, h4, h5, h6, ol, ul, li, a, p, body {
+    font-family: "Tahoma";
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-size: 14px;
+    list-style: none;
+    color: #000000;
+    text-decoration: none;
+}
+
+.headerText {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px 50px 25px 50px ;
+}
+
+
+.frame {
+    margin: auto;
+    padding: 30px 0px 30px 0px;
+    width: 700px;
+    background-color: #d6d4d4;
+}
+
+.content {
+    width: 600px;
+    background-color: white;
+    margin: auto;
+}
+
+.text1 {
+    font-size: 16px;
+    line-height: 22px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.bottom {
+    height: auto;
+    background-color: #ececec;
+    padding: 30px 0px 30px 0px;
+}
+
+.menuBottom ul {
+    text-align: center;
+}
+
+.menuBottom img {
+    height: 10px;
+    width: 10px;
+}
+
+.menuBottom ul li {
+    width: auto;
+    margin: 0px 15px 0px 15px;
+    display: inline-block;
+
+}
